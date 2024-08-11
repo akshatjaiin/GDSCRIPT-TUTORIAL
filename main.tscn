@@ -4,6 +4,7 @@
 
 [node name="Main" type="Node"]
 script = ExtResource("1_ts5cm")
+health = null
 
 [node name="Label" type="Label" parent="."]
 offset_right = 273.0
