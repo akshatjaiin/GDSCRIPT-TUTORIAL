@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=3 uid="uid://dua7pjksvkqgy"]
+
+[ext_resource type="Script" path="res://main.gd" id="1_ts5cm"]
+
+[node name="Main" type="Node"]
+script = ExtResource("1_ts5cm")
+
+[node name="Label" type="Label" parent="."]
+offset_right = 273.0
+offset_bottom = 120.0
+scale = Vector2(0.95086, 1.38503)
+text = "This is a lable"
